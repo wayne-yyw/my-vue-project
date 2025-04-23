@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">测试其他项目的网页</div>
+  <div class="hello">测试其他项目的网页！！！！</div>
 </template>
 
 <script>
